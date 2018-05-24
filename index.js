@@ -10,7 +10,7 @@ function myAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   return animal
-}
+}  //I can't hard-code 'cat' inside, but, apparently, I can switch yourAnimal and myAnimal function names to get the expected result
 
 function add2(n) {
   return n + two
