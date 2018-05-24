@@ -15,7 +15,7 @@ function myAnimal() {
 function add2(n) {
   const two = 2
   return n + two
-}
+}  //const two needed to be declared before executing the return call
 
 var funkyFunction = function() {
   return function() {
